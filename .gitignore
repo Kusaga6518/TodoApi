@@ -1,0 +1,28 @@
+# Build artifacts
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.log
+*.db
+*.DS_Store
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# ASP.NET Core specific
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Others
+node_modules/
+wwwroot/
